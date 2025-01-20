@@ -31,7 +31,7 @@ deployment "dev" {
 deployment "prod" {
     inputs = {
         identity_token = identity_token.azurerm.jwt
-        client_id = "aa6f3287-ff8d-464f-b6ba-d3af822d5249"
+        client_id = "45e7d531-bd52-42fe-8067-98c33a8e83be"
         subscription_id = "2e740db1-fd52-4fad-aa9e-c524bc9f96e6"
         tenant_id = "e9a036ff-e906-4e58-94dc-2f5f2693d5fd"
 
